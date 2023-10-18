@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - ☕ | Tenho 15 anos e quero ser um programador fullstack
-- 🖥️ | Gosto de robótica e projetos com arduino
+- 🖥️ | Faço designs simples usando canva
 - 🤘 | Estudando JavaScript
 - 🐍 | Fiz minicurso de python mas prefiro o Java
 -  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
@@ -13,6 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+ <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
