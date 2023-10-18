@@ -1,6 +1,7 @@
 ### Olá 👋
 
 - ☕ | Tenho 15 anos e quero ser um programador fullstack
+- 🖥️ | Gosto de robótica e projetos com arduino
 - 🤘 | Estudando JavaScript
 - 🐍 | Fiz minicurso de python mas prefiro o Java
 -  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
@@ -12,5 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
 </div>
