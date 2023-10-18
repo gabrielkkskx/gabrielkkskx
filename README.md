@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- ☕ | Tenho 15 anos e quero ser um programador fullstack
+- ☕ | Tenho 16 anos e quero ser um programador fullstack
 - 🖥️ | Faço designs simples usando canva
 - 🤘 | Estudando JavaScript
 - 🐍 | Fiz minicurso de python mas prefiro o Java
@@ -24,4 +24,6 @@
 
 <div>
    <a href="https://wa.me/554291334898" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+   <a href="https://instagram.com/gabrielkkskx"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+   <a href="mailto:contatogabrielkkskx@gmail.com"><img src="">
 </div>
