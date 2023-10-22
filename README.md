@@ -1,5 +1,7 @@
 ### Olá 👋
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 - ☕ | Tenho 16 anos e quero ser um programador fullstack
 - 🖥️ | Faço designs simples usando canva
 - 🤘 | Estudando JavaScript
@@ -30,3 +32,5 @@
    <a href="https://instagram.com/gabriel_kkskx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href = "mailto:contatogabrielkkskx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
