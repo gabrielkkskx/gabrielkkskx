@@ -8,6 +8,8 @@
 - 🐍 | Fiz minicurso de python mas prefiro o Java
 -  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
  <div>
 <a href="https://github.com/gabrielkkskx">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielkkskx&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -38,5 +40,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielkkskx}/count.svg" /></p> 
 <br>
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
