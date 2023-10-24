@@ -17,14 +17,10 @@
 </div>
 
 <div style="display: inline_block"><br>
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
- <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> 
- <div>
- <img align="right" alt="GIF" src="https://media.discordapp.net/attachments/1164293776861315173/1164294149151924235/61zg71.gif?ex=6542b06c&is=65303b6c&hm=843b52c528f1cc8365defd6e3d0db61514ea7e26a188e1a3c5064525e9287fab&=">
-</div>
+ <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" />
+ <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif" />
+ <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" />
+ <img align="center" height="40" width="50" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"/> 
 </div>
 
 ##
@@ -40,3 +36,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielkkskx}/count.svg" /></p> 
 <br>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
