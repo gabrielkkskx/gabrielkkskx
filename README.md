@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - ☕ | Tenho 16 anos e quero ser um programador fullstack
-- 🖥️ | Faço designs simples usando canva
 - 🤘 | Estudando JavaScript
 - 🐍 | Fiz minicurso de python mas prefiro o Java
 -  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
