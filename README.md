@@ -2,9 +2,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- ☕ | Tenho 16 anos e quero ser um programador fullstack
+- ☕ | Tenho 16 anos e quero ser um programador fullstack voltado para o front
 - 🤘 | Estudando JavaScript
-- 🐍 | Fiz minicurso de python mas prefiro o JavaScript
 -  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
