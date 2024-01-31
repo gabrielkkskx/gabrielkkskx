@@ -4,7 +4,6 @@
 
 - ☕ | Tenho 16 anos e quero ser um programador fullstack voltado para o front
 - 🤘 | Estudando JavaScript
--  💼 | Estou apenas desenvolvendo sites com os templates que estão nos repositórios, nada muito elaborado
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
