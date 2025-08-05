@@ -5,6 +5,8 @@
 - ☕ | Tenho 17 anos e desejo trabalhar na área de Dev
 - 🤘 | Cursando Eng. de Software
 
+<p align="center"><img align="left" src="https://komarev.com/ghpvc/?username=gabrielkkskx&color=blueviolet&style=flat" /></p> 
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 <div>
@@ -29,10 +31,5 @@
      <a href = "https://www.linkedin.com/in/gabriel-oliveira-7a4500297"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielkkskx}/count.svg" /></p> 
-<br>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
