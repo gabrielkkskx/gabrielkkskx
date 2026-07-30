@@ -2,8 +2,11 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- ☕ | Tenho 17 anos e desejo trabalhar na área de Dev
-- 🤘 | Cursando Eng. de Software
+## 📌 Quick Bio
+
+* 🎓 **Engenharia de Software** | Graduando
+* 💻 **Software Development** | Em transição/preparação para o mercado
+* ⚡ **Hands-on** | Construindo projetos, estudando arquitetura e evolução constante
 
 <p align="center"><img align="left" src="https://komarev.com/ghpvc/?username=gabrielkkskx&color=blueviolet&style=flat" /></p> 
 
