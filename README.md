@@ -5,7 +5,7 @@
 ## 📌 Quick Bio
 
 * 🎓 **Engenharia de Software** | Graduando
-* 💻 **Software Development** | Em transição/preparação para o mercado
+* 💻 **Desenvolvimento de Software** | Em transição/preparação para o mercado
 * ⚡ **Hands-on** | Construindo projetos, estudando arquitetura e evolução constante
 
 <p align="center"><img align="left" src="https://komarev.com/ghpvc/?username=gabrielkkskx&color=blueviolet&style=flat" /></p> 
